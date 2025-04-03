@@ -52,7 +52,7 @@ body {
     border-radius: 10px; /* Rounded corners */
     background-color: white; /* Box background */
     box-shadow: 5px 5cm 10px rgba(0, 0, 0, 0.1); /* Light shadow */
-    width: 700px
+    width: 50%
 }
 .container2 {
     margin: auto;
@@ -65,7 +65,7 @@ body {
     border-radius: 10px; /* Rounded corners */
     background-color: white; /* Box background */
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.1); /* Light shadow */
-    width: 700px
+    width: 70%;
 }
 .container3 {
     margin: auto;
